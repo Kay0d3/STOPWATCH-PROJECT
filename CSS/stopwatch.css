@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url("/images/pexels-koolshooters-6976599.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#container {
+  height: 250px;
+  width: 80%;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 1px black;
+  display: grid;
+  place-content: center;
+}
+#timer {
+  font-size: 5rem;
+  margin-bottom: 45px;
+}
+.buttons {
+  text-align: center;
+}
+button {
+  margin: 0 20px;
+  border: none;
+  margin-bottom: 10px;
+}
+button i {
+  background-color: white;
+  font-size: 2.5rem;
+  transition: .5s;
+}
+button i:hover{
+    transform: scale(.95);
+}
+#play {
+  color: green;
+}
+#pause {
+  color: orange;
+}
+#reset {
+  color: red;
+}
