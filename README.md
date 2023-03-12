@@ -7,4 +7,4 @@
 * *contantenation*
 * *and many more*
 #### The above were all instrumental in the functionality of the button
-#### Kindly check it out [STOPWATCH](https://stopwatch-project.vercel.app/). _HAPPY CODING_
+#### Kindly check it out [STOPWATCH](https://stopwatch-project.vercel.app/stopwatch.html). _HAPPY CODING_
